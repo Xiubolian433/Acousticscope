@@ -1,0 +1,348 @@
+skill_id,skill_name,All_invoke_words,invoke_name,Alexa_Answer,User_Response
+B09JNVH3QT,Words Master,"Alexa, open words master","Alexa, open words master",i found a few skills that might help do you mean words master o,"Sure, please share."
+B09JNVH3QT,Words Master,"Alexa, open words master","Alexa, open words master",it's a fun rhyming words game skill you have to guess the correct answer for the given word if your answer is correct your score will increase by ten points would you like to learn more o,"Yes, please explain."
+B09JNVH3QT,Words Master,"Alexa, open words master","Alexa, open words master",it's a fun rhyming words game skill you have to guess the correct answer for the given word if your answer is correct your score will increase by ten points would you like to learn more,"No, thanks."
+B09JNVH3QT,Words Master,"Alexa, open words master","Alexa, open words master",thank you for your interest in words master good bye,You're welcome. Goodbye.
+B09JNVH3QT,Words Master,"Alexa, open words master","Alexa, open words master",and happy sebay,Thank you.
+B09JNVH3QT,Words Master,"Alexa, open words master","Alexa, open words master","tag info,loop time: 5","tag info: skill problem, skill stop"
+B01N47LCE6,Computer Terminology,"Alexa, Start Computer Terminology","Alexa, Start Computer Terminology",computer terminalahi i will ask you five questions try to get as many right as you can just say the number of the correct answer let's begin dok question one what is software called that allows a user to locate retrieve and inview web pages graphics and on mine content on the world wide web one drivers two processor three book mark four drowser,4
+B01N47LCE6,Computer Terminology,"Alexa, Start Computer Terminology","Alexa, Start Computer Terminology",question one what is soft ware called that allows a user to locate retrieve and inview web pages graphics and all mine content on the world wide web one drivers two processor three book mark four drowser,4
+B01N47LCE6,Computer Terminology,"Alexa, Start Computer Terminology","Alexa, Start Computer Terminology","tag info,loop time: 2","tag info: skill problem, skill stop"
+B07DWS8HTY,Word Game,"Alexa, play word game","Alexa, play word game",listening timeout,No response
+B08PVTHNJ2,Escape the School,Alexa open Escape the School,Alexa open Escape the School,welcome to escape the score please say start to begin,start
+B08PVTHNJ2,Escape the School,Alexa open Escape the School,Alexa open Escape the School,game started your eyes slowly open your body feels tingly as you look around you're in a dark school classroom all the lights are out you sluggishly get up and notice an unnerving chill down your spine you can say instructions like look left look at door or use wrench on pipe you can also say inventory to look and see what you have what would you like to do,look around
+B08PVTHNJ2,Escape the School,Alexa open Escape the School,Alexa open Escape the School,you look u the ceiling is a whitish gray color there is a vent on the ceiling what would you like to do o,look at vent
+B08PVTHNJ2,Escape the School,Alexa open Escape the School,Alexa open Escape the School,the vet looks to be made of titania no air is coming out of it what would you like to do o,use wrench
+B08PVTHNJ2,Escape the School,Alexa open Escape the School,Alexa open Escape the School,you do not have wrench in your inventory what would you like to do o,look for wrench
+B08PVTHNJ2,Escape the School,Alexa open Escape the School,Alexa open Escape the School,ok tip ut tip tut tip tu tip tut tip tut tip tut tip t tip u tip tt tip tut tip u tip tut tip tut tip tut tp tut tip tut tip tt tip tut what would you like to do,use flashlight
+B08PVTHNJ2,Escape the School,Alexa open Escape the School,Alexa open Escape the School,listening timeout,No response
+B08V573QY9,Hangman,Alexa open hang man.,Alexa open hang man.,welcome to the word game of hangman the word contains nine letters you have ten attempts left please say a letter,e
+B08V573QY9,Hangman,Alexa open hang man.,Alexa open hang man.,you have chosen letter is it correct,Yes
+B08V573QY9,Hangman,Alexa open hang man.,Alexa open hang man.,your guess is right one occurrence is found in the word you have ten attempts left the word so far is four letters e four letters please say a letter,r
+B08V573QY9,Hangman,Alexa open hang man.,Alexa open hang man.,"tag info,loop time: 3","tag info: skill problem, skill stop"
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",welcome back to l a times cross work try saying print to day's cross work or print last sunday's answerso,Print today's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross work would you like to print,Print Sunday's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print o,Print Monday's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",want me to print to day's cross work you can also pick a different day,"Yes, print today's."
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print o,Print today's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print,Print Monday's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",you want me to print to day's cross work you can also pick a different dayo,"Yes, print today's."
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that crossword is not available yet please try again later what day's cross work would you like to print o,Print Sunday's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print,Print Tuesday's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print,Print today's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print,Print Wednesday's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",you want me to print to day's cross word you can also pick a different day o,"Yes, print today's."
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print o,Print today's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print oh,Print today's.
+B08GXYZYDM,Los Angeles Times Crossword,"Alexa, open Los Angeles Times Crossword","Alexa, open Los Angeles Times Crossword",sorry that cross word is not available yet please try again later what day's cross word would you like to print oh,Print Sunday's.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",you want me to print to day's cross work you can also pick a different day,Yes.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",sorry that cross word is not available yet please try again later what day's cross word would you like to print oh,Any day.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",do you want me to print to day's cross work you can also pick a different day,Yes.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",sorry that cross word is not available yet please try again later what day's cross word would you like to print,Any day.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",do you want me to print to day's cross work you can also pick a different day,Yes.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",sorry that cross word is not available yet please try again later what day's cross word would you like to print,Any day.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",o want me to print to day's cross work you can also pick a different day,Yes.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",sorry that cross word is not available yet please try again later what day's cross word would you like to print o,Any day.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",do you want me to print to day's cross work you can also pick a different day,Yes.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",sign that cross word is not available yet please try again later what day's cross word would you like to print oh,Any day.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",do you want me to print to day's cross word you can also pick a different day,Yes.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",sorry that cross word is not available yet please try again later what date's cross word would you like to print oh,Any day.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",want me to print to day's cross work you can also pick a different day,Yes.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",sorry that cross word is not available yet please try again later what day's cross word would you like to print o,Any day.
+B019DA09YE,Math Mania,"Alexa, ask Math Mania to play","Alexa, ask Math Mania to play",word is not available yet please try again later what day's cross word would you like to print if you don't respond in a few seconds this skill will exit after a beep sound,Any day.
+B073LKHFPC,My Knowledge,"Alexa, ask My Knowledge","Alexa, ask My Knowledge",you want me to print to day's cross word you can also pick a different day,No
+B073LKHFPC,My Knowledge,"Alexa, ask My Knowledge","Alexa, ask My Knowledge",can i print the cross word for another day o,No
+B073LKHFPC,My Knowledge,"Alexa, ask My Knowledge","Alexa, ask My Knowledge",o k come back daily for a new cross work best of luck,No
+B073LKHFPC,My Knowledge,"Alexa, ask My Knowledge","Alexa, ask My Knowledge",listening timeout,No response
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivia how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivial how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivial how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivia how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivial how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivia how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,o welcome to totally awesome team trivio how many teams are playing o,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welthom to totally awesome team trivia how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivia how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivial how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivial how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivia how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivia how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivial how many teams are playing,12
+B076GC2SS2,Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,Alexa Play Totally Awesome Team Trivia,welcome to totally awesome team trivial how many teams are playing,12
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivial how many teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivia how many teams are playing,10
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivio how many teams are playing,12
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivial how many teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,how many teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivial how many teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivio how many teams are playing,12
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivial how many teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,how many teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivio how many teams are playing o,12
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivia how many teams are playing,10
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivio how many teams are playing o,12
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivial how many teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,omany teams are playing,8
+B07DW6X3XV,Lucky Dice,Alexa launch lucky dice,Alexa launch lucky dice,welcome to totally awesome team trivia how many teams are playing o,10
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,sure thing let's start a fresh game of alphabravo charley let's begin for eight hundred points tell me the phonetic alphabet word for the letter cue,Charlie
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,i'm sorry but charley is not the correct answer you can try again for four hundred points or say skip if you want to try a new letter tell me the phonetic alphabet word for the letter q,Quebec
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you ern four hundred points your score is now four hundred for eight hundred points tell me the phonetic alphabet word for the letter r,Romeo
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you aren't eight hundred points your score is now one thousand two hundred for two hundred points tell me the phonetic alphabet word for the letter e,Echo
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you are i two hundred points your score is now one thousand four hundred for four hundred points tell me the phonetic alphabet word for the letter v,Victor
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,correct well done you earn four hundred points your score is now eighteen hundred for four hundred points tell me the phonetic alphabet word for the letter s,Sierra
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you are in four hundred points your score is now two thousand two hundred tho four hundred points tell me the phonetic alphabet word for the letter o,Oscar
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you aren four hundred points your score is now two thousand six hundred for four hundred points tell me the phonetic alphabet word for the letter y,Yankee
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you earn four hundred points your score is now three thousand for eight hundred points tell me the phonetic alphabet word for the letter l,Lima
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you are in eight hundred points your score is now three thousand eight hundred for four hundred points tell me the phonetic alphabet word for the letter p,Papa
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you ern four hundred points your score is now four thousand two hundred for two hundred points tell me the phonetic alphabet word for the letter w,Whiskey
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you earn two hundred points your score is now four thousand four hundred for four hundred points tell me the phonetic alphabet word for the letter g,Golf
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,correct well done you earn four hundred points your score is now four thousand eight hundred for two hundred points tell me the phonetic alphabet word for the letter t,Tango
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you are in two hundred points your score is now five thousand for two hundred points tell me the phonetic alphabet word for the letter d,Delta
+B01FYMWWQS,Alfa Bravo Charlie,Alexa ask Alfa Bravo Charlie to start a game,Alexa ask Alfa Bravo Charlie to start a game,that's correct well done you are in two hundred points your score is now five thousand two hundred for eight hundred points tell me the phonetic alphabet word for the letter h,Hotel
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,welcome to guess the price how many persons are playing to day,"1. Two.
+2. Three.
+3. Four."
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,correctly please tell us your name again,"{Smith}
+B:"
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,we didn't get you correctly please tell us your name again,"{Smith}
+B:"
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,o k nex start the game reminder your product is of women's classic short two winter boot these sheepskin and swayed boots have rubber soles are pre treated to repel moisture and stains and are fully lined with fur they also pura a famous o grand name yes the price if you dare thisis,"{100 dollars}
+B:"
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,when shoumy this is,{now}
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,belles too,"{No}
+B:"
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,this might answer your question b also known as c t or in some european countries h is the seventh note in the twelfth semitone of the fixed dusa fech,{B}
+B0779F5ZDN,Guess The Price,Alexa open Guess The price,Alexa open Guess The price,listening timeout,No response
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",welcome to the hairy potter house guessing gang you can ask to start a quiz with starter quiz o,starter quiz
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",i'm sorry undefined is not something i think i can help you with i know which house lots of harry potter characters belong to in hogwooks you can test your knowledge by asking me to start a quiz what would you like to do o,start quiz
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",ok i will ask you for the hogwoods house of ten characters here is your first question what is the house of hestia carroll,Gryffindor
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",ah man the house of hestia carroll is slithering your current score is zero out of one here is your second question what is the house of ron weasley oh,Gryffindor
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",the house of ron weasley is griffenbu your current score is zero out of two here is your third question what is the house of teddy lupin o,Hufflepuff
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",righti the house of teddy lupin is huffled off your current score is one out of three here is your fourth question what is the house of merlin,No house
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",the house of merlin is slithering your current score is one out of four here is your fifth question what is the house of angelina johnson,Gryffindor
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",oh dear the house of angelina johnson is griffendore your current score is one out of five here is your sixth question what is the house of sibil trelawney,Ravenclaw
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",well done the house of cibil trelawney is raven clot your current score is two out of six here is your seventh question what is the house of erney macmillan,Hufflepuff
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",chin the house of erney mac millan is hufflepuff your current score is three out of seven here is your eighth question what is the house of bridget wenlock o,Gryffindor
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",here is your eighth question what is the house of bridget wenlock,Ravenclaw
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",ok i will ask you for the hogworts house of ten characters here is your first question what is the house of lee jordan,Gryffindor
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",here is your first question what is the house of lee jordan,Gryffindor
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",lipsa daisy the house of lee jordan is griffinbila your current score is zero out of one here is your second question what is the house of sylvanus kettleburn o,Gryffindor
+B075CGWG8C,Harry Potter House Quiz,"Alexa, open potter house quiz","Alexa, open potter house quiz",yikes the house of sylvanus kettleburn is hufflepuff your current score is zero out of two here is your third question what is the house of lee jordan,Gryffindor
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",welcome to syphi quiz you can ask me about some of the most famous science fiction books or authors or you can ask me to start a quiz what would you like to do o,Start quiz.
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",o k i will ask you ten questions about science fiction books question number one who wrote the science fiction book titled methuselah's children,Robert Heinlein
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",a man the author of methuselah's children is robert a hinlin your current score is zero outofone question number two who wrote the science fiction book titled the rise of endymion,Dan Simmons
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",duntantan the author of the rise of endymion is dan simons your current score is zero out of two question number three who wrote the science fiction book titled a scanner darkly,Philip K. Dick
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",the author of a scanner darkly is philip k dick your current score is zero out of three question number four who wrote the science fiction book titled hominats,Terry Pratchett
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",the author of hominence is robert j sawyer your current score is zero out of four question number five who wrote the science fiction book titled cryptonomico,Neal Stephenson
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",a man the author of cryptonomicon is neil stevenson your current scoreis zero out of five question number six who wrote the science fiction book titled the lives of endymion,Dan Simmons
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",oh dear the author of the rise of endymion is dan symons your current score is zero out of six question number seven who wrote the science fiction book titled bone shaker,Cherie Priest
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",o the author of bone shaker is shrew priest your current score is zero out of seven question numbr eight who wrote the science fiction book titled stand on zanzibar,John Brunner
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",amn the author of stand on zanzibar is john brune your current score is one out of eight question number nine who wrote the science fiction book titled where late the sweetbird sang,Kate Wilhelm
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",the author of where late the sweet bird sang as cape wilhelm your current score is one out of nine question number ten who wrote the science fiction book titled slow river,Nicola Griffith
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",oh the author of slow river is nichola griffith your final score is two out of ten thank you for playing the psyphy quiz game come back soon i won't bite,Thank you.
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",you are so very welcome hope you had a good saturday,You too.
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",sorry i don't know that,It's okay.
+B073TRHKFD,SciFi Quiz,"Alexa, play SciFi Quiz","Alexa, play SciFi Quiz",pring and happy sebruary,Thank you.
+B0859QF8YL,blindfold chess,"Alexa, open Blindfold Chess","Alexa, open Blindfold Chess",handing off to blindfold chess by lena welcome back previous game loaded,Thanks.
+B0859QF8YL,blindfold chess,"Alexa, open Blindfold Chess","Alexa, open Blindfold Chess","tag info,loop time: 1","tag info: skill problem, skill stop"
+B01JDNSRFO,Name that Song from the 80s,"Alexa, start eighties bands","Alexa, start eighties bands",i will say five songs from the eighties name the band and try to get as many right as you can just say the answer let's begin we're not going to take it,Twisted Sister
+B01JDNSRFO,Name that Song from the 80s,"Alexa, start eighties bands","Alexa, start eighties bands",that answer is correct your score is one take on me o,A-ha
+B01JDNSRFO,Name that Song from the 80s,"Alexa, start eighties bands","Alexa, start eighties bands",that answer is wrong the correct answer is aha your score is one our lips are sealed,The Go-Go's
+B01JDNSRFO,Name that Song from the 80s,"Alexa, start eighties bands","Alexa, start eighties bands",that answer is wrong the correct answer is the go goes your score is one jesse's girl,Rick Springfield
+B01JDNSRFO,Name that Song from the 80s,"Alexa, start eighties bands","Alexa, start eighties bands",that answer is correct your score is two you spin me round,Dead or Alive
+B01JDNSRFO,Name that Song from the 80s,"Alexa, start eighties bands","Alexa, start eighties bands",that answer is correct you got three out of five questions correct thank you for learning with alexa,Thank you
+B01JDNSRFO,Name that Song from the 80s,"Alexa, start eighties bands","Alexa, start eighties bands",listening timeout,No response
+B07F1DZL2T,Speak Up: The Party Quiz,"Alexa, start speak up.","Alexa, start speak up.",welcome to speak up you can choose your category do you want to play states or zodiacs,states
+B07F1DZL2T,Speak Up: The Party Quiz,"Alexa, start speak up.","Alexa, start speak up.",ok i want you to tell me all fifty u s states like my answer is kentucky,Kentucky
+B07F1DZL2T,Speak Up: The Party Quiz,"Alexa, start speak up.","Alexa, start speak up.",kentucky is correct you've already got one correct states forty nine are missing tell me another one,Texas
+B07F1DZL2T,Speak Up: The Party Quiz,"Alexa, start speak up.","Alexa, start speak up.",texis is correct you've already got two correct states forty eight are missing tell me another one,California
+B07F1DZL2T,Speak Up: The Party Quiz,"Alexa, start speak up.","Alexa, start speak up.",california is correct you've already got three correct states forty seven are missing tell me another one,New York
+B07F1DZL2T,Speak Up: The Party Quiz,"Alexa, start speak up.","Alexa, start speak up.",new york is correct you've already got four correct states forty six are missing tell me another one,Florida
+B07F1DZL2T,Speak Up: The Party Quiz,"Alexa, start speak up.","Alexa, start speak up.",listening timeout,No response
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",sorry i couldn't find what you're looking for,No problem.
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",i really appreciate that an happy february,You're welcome.
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",bring,Bring what?
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",sorry there is nothing to repeat,Okay then.
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",o i don't know that,Okay then.
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",sorry i don't know that,Okay then.
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",o i don't know that one,Okay then.
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",sorry i don't have an answer for that,Okay then.
+B07V73RQ2D,Mean Rude,"Alexa, open Mean Rude","Alexa, open Mean Rude",listening timeout,No response
+B073NK3HMW,Lyrics Idol,"Alexa, open Lyrics Idol","Alexa, open Lyrics Idol",welcomet wering sid wellcome back your level is won let's play fill the blank ino go now,Okay
+B073NK3HMW,Lyrics Idol,"Alexa, open Lyrics Idol","Alexa, open Lyrics Idol",what i heard is o k not correct here is the correct line ogona,Okay
+B073NK3HMW,Lyrics Idol,"Alexa, open Lyrics Idol","Alexa, open Lyrics Idol",i heard you say o k this is not the missing word the line gos that's the second strike only five strikes remaining you have scored zero points what is the word that is missing in,Okay
+B073NK3HMW,Lyrics Idol,"Alexa, open Lyrics Idol","Alexa, open Lyrics Idol",what i've heard is o k this is not the right word the line goesmor,Okay
+B073NK3HMW,Lyrics Idol,"Alexa, open Lyrics Idol","Alexa, open Lyrics Idol",the word i heard was o k this is not the missing word the line was that's the fourth strike only three more strikes to go fill the blankn,Okay
+B073NK3HMW,Lyrics Idol,"Alexa, open Lyrics Idol","Alexa, open Lyrics Idol",i heard you say o k not correct the cirect line was that's the fifth strike only two strikes left what is the word that is missing in aninsumas whata,Okay
+B073NK3HMW,Lyrics Idol,"Alexa, open Lyrics Idol","Alexa, open Lyrics Idol",listening timeout,No response
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,welcome to the movie forts trivial game are you ready to begin the game,Yes.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,o k here is your first movie quote i'm just a humble country lawyer trying to do the best i can against this brilliant prosecutor from the big city of lanse,My Cousin Vinny.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,whoops your answer of my cousin vinnie was incorrect this movie quote was from the movie anatomy of a murder are you ready for your second movie quote,Yes.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,here is your second movie quot you are more beautiful than cinderella you smell like pine needles and have a face like sunshine,500 Days of Summer.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,unfortunately your answer of five hundred days of summer was incorrect this movie quote was from the movie bridesmaids are you ready for your third movie quote,Yes.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,here is your third movie qlok missus robinson you're trying to seduce me aren't youo,The Graduate.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,you nailed it your answer of graduate is correct are you ready for your fourth move quote,Yes.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,here is your fourth movie quote if everything's ready here on the dark side of the moon play the five tones,Close Encounters.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,great answer your answer of close encounters of the third kind is correct are you ready for your final movie quot,Yes.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,here is your final movie quo congratulations you are still alive most people are so ungrateful to be alive but not you not any more o,Saw.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,amsorry i do not understand what you just said if you are saying the title of a movie try beginning your response with the phrase the answer is,The answer is Saw.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,i am sorry i do not understand what you just said if you are saying the title of a movie try beginning your response with the phrase the answer is what famous movie containd the following line congratulations you are still alive most people are so ungrateful to be alive but not you not any more,The answer is Saw.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,i am sorry i do not understand what you just said if you are saying the title of a movie try beginning your response with the phrase the answer is what famous movie contained the following line congratulations you are still alive most people are so ungrateful to be alive but not you not any more,The answer is Saw.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,i am sorry i do not understand what you just said if you are saying the title of a movie try beginning your response with the phrase the answer is what famous movie contained the following line congratulations you are still alive most people are so ungrateful to be alive but not you not any more,The answer is Saw.
+B01LYRDYT4,Movie Quotes,Alexa open movie quotes,Alexa open movie quotes,i am sorry i do not understand what you just said if you are saying the title of a movie try beginning your response with the phrase the answer is what famous movie contained the following line congratulations you are still alive most people are so ungrateful to be alive but not you not any more,The answer is Saw.
+B01M12EP5B,The Dice Game,"Alexa, Start the dice game","Alexa, Start the dice game",welcome to the dice game a game played with six virtual dice once we start the game just say rules and i'll tell them to you the object of this game is to be the first to reach exactly ten thousand points let's begin how many players will be playing this game please say i number from two to ten,Two.
+B01M12EP5B,The Dice Game,"Alexa, Start the dice game","Alexa, Start the dice game",how many players will be playing this game,Two.
+B01M12EP5B,The Dice Game,"Alexa, Start the dice game","Alexa, Start the dice game",player one is rolling six dice you rolled four four five five four one you rolled six hundred points and have zero onescored dice your turn score is six hundred your options are roar score players options rules and stoff,Score.
+B01M12EP5B,The Dice Game,"Alexa, Start the dice game","Alexa, Start the dice game",that is not a valid option please say one of the valid options oh,Roar.
+B01M12EP5B,The Dice Game,"Alexa, Start the dice game","Alexa, Start the dice game",is not a valid option please say one of the valid options o,Rules.
+B01M12EP5B,The Dice Game,"Alexa, Start the dice game","Alexa, Start the dice game",the dice game rules are the object of this game is to be the first player to score exactly ten thousand points say the roll command to roll the dice your roll is scored as follows each one is worth one hundred points three ones are worth one thousand points four ones are worth two thousand points five are worth four thousand if you roll six ones in a single roll you automatically win the game each five is worth fifty points except for ones any value rolled in multiples of three or more are scored as follows for three of a kind multiply the value times one hundred four of a kind is the value times two hundred five of a kind is the value times four hundred and six of a kind is multiplied by eight hundred for example rolling four threes would give you six hundred points if none of your dice score points your turn is over if points are scored you can elect to end your turn and collect the points you've scored or roll any unscored dice again once again if no points are scored your turn is over ind any points you've scored in that turn are lost,Stop.
+B01M12EP5B,The Dice Game,"Alexa, Start the dice game","Alexa, Start the dice game",listening timeout,No response
+B078592P2S,Christmas Movie Guessing Game,"Alexa, open christmas movie game.","Alexa, open christmas movie game.",welcome to christmas movie guessing game say start to play,start
+B078592P2S,Christmas Movie Guessing Game,"Alexa, open christmas movie game.","Alexa, open christmas movie game.",in,"{Elf}
+B:"
+B078592P2S,Christmas Movie Guessing Game,"Alexa, open christmas movie game.","Alexa, open christmas movie game.",this might answer your question swedish company elpa which distributes electronic components instruments tools and books to business and private customers was founded in nineteen forty five by arne lidmar and millsmissa jenson,{No}
+B078592P2S,Christmas Movie Guessing Game,"Alexa, open christmas movie game.","Alexa, open christmas movie game.",for,No response
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",welcome to high low guessing game you have played zero times would you like to play,Yes.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",great try saying a number to start the gameo,5.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",five is too low,Higher.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",sorry i didn't get that try saying te numbero,7.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",seven is too low,Higher.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",sorry i didn't get that try saying the number o,9.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",nine is too low,Higher.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",sorry i didn't get that try saying ta number,10.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",is too low,Higher.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",sorry i didn't get that try saying ha number,15.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",fifteen is too low,Higher.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",sorry i didn't get that try saying the number o,20.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",twenty is too low,Higher.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",sorry i didn't get back try saying a number o,25.
+B072XH5JZJ,High Low Game,"Alexa, let's play High Low Game","Alexa, let's play High Low Game",eny five is too low,Higher.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying a number oh,number
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying a number o,number
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the numbero,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get there try saying the memberoh,member.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the numbero,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the numbero,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the numbero,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the number o,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the number,number
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying a number oh,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the number oh,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying a numbero,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the member,member.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",sorry i didn't get that try saying the number o,number.
+B07QF77YR2,Movie Trivia Game,"Alexa, open movie trivia game","Alexa, open movie trivia game",listening timeout,No response
+B07D6NWVKW,Quiz of the Day skill for Amazon Alexa,"Alexa, open Quiz of the Day.","Alexa, open Quiz of the Day.",sorry i'm having trouble accessin your super quiz of the day's skill right now,Try again.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,welcome to how well do you know the hottest movie quot quiz game in the world are you ready to play,Yes.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,let's test your knowledge take a movie,Okay.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,let's test your knowledge tak a movee,No.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,say help if you aren't sure what to do,Help.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,name the movie you would like to be tested on and then say the missing word in the quote,[Movie name] [Missing word].
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,sorry i can't understand the command please say again,Repeat.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,say help if you aren't sure what to do,Help.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,name the movie you would like to be tested on and then say the missing word in the quote,[Movie name] [Missing word].
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,sorry i can't understand the command please say again,Repeat.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,say help if you aren't sure what to do,Help.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,name the movie you would like to be tested on and then say the missing word in the quote,[Movie name] [Missing word].
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,sory i can't understand the command please say again o,Repeat.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,siy help if you aren't sure what to do,Help.
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,name the movie you would like to be tested on and then say the missing word in the quote,[Movie name] [Missing word].
+B07S3W1VMX,Movie Quotes Quiz,Alexa open beast audio,Alexa open beast audio,sorry i can't understand the command please say againo,Repeat.
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",welcome to vocabulary master please choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",are you still there choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hardo,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard o,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",didn't quite catch that choose the level of difficulty you can say easy medium or hardo,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hardo,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hoto,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B06XN5QW6N,Vocabulary Master,"Alexa, Start Vocabulary Master","Alexa, Start Vocabulary Master",i didn't quite catch that choose the level of difficulty you can say easy medium or hard,hard
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",didn't quite catch that choose the level of difficulty you can say easy medium or hardo,hard
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",i didn't quite catch that choose the level of difficulty you can say easy medium or hardo,medium
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",here is your first question which of the following is the synonym of jovial your choices are incredulous merry revolting,merry
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",oh i heard maggie it's an incorrect answer try again your choices are incredulous merry revolting,incredulous
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",sorry i heard imcredulous but the correct answer is mary next question which of the following is the synonym of temerity your choices are audacity fearfulness shynesso,audacity
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",bingo your score is won next question which of the following is the synonym of covetous your choices are quiet greety lurking,greedy
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",great your score is two next question which of the following is the synonym of imply your choices are suggest stab thick,suggest
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",excellent your score is three next question which of the following is the synonym of solomn your choices are amusing serious speech,serious
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",it didn't hear a response say repeat to hear the question again,repeat
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",of the following is the synonym of solo your choices are amusing serious speech,speech
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",oose i heard speech it's an incorrect answer try again your choices are amusing serious speech,amusing
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",i heard him musing but the correct answer is serious next question which of the following is the synonym of fraud your choices are malcontent argument impostor,impostor
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",wonderful your score is four next question which of the following is the synonym of a paw your choices are delirious hover dismay,hover
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",oh i heard ha it's an incorrect answer try again your choices are delirious covered dismay o,delirious
+B07K5D5GTK,Classic Rock Trivia,"Alexa, open classic rock trivia","Alexa, open classic rock trivia",oh i heard yes but the correct answer is dismay next question which of the following is the synonym of custom your choice is on desert habic ethic,habit
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",let's start over choose the level of difficulty you can say easy medium or hard,Easy
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",here is your first question which of the following is the synonym of market your choices are grosery store food vegetables,grosery store
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",sorry i didn't hear a response say repeat to her the question again,repeat
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",which of the following is the synonym of market your choices are grocery store food vegetables,grocery store
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",bingon your score is won next question which of the following is the synonym of health your choices are assistant aid payment,aid
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",great your score is two next question which of the following is the synonym of cleanng your choices are washington dirty use,clean
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",sorry i heard clean it's an incorrect answer try again your choices are washington dirty use o,dirty
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",sorry i didn't hear a response say repeat to her the question again,repeat
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",which of the following is the synonym of cleann your choices are washington dirdy use,dirty
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",i heard daddy but the correct answer is wash next question which of the following is the synonym of create your choices are right make hurt,make
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",excellent your score is three next question which of the following is the synonym of sera your choices are happy afraid angry,happy
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",oh i heard happy it's an incorrect answer try again your choices are happy afraid angry,afraid
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",sorry i didn't hear a response say repeat to her the question again,repeat
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",ich of the following is the synonym of scare your choices are happy afraid angry,afraid
+B01HT46HTC,Trivia Movie Quotes,"Alexa, launch Trivia Movie","Alexa, launch Trivia Movie",wonderful your score is four next question which of the following is the synonym of twist your choices are open turn lock,turn
+B087Z5F54N,World Geography Quiz,"Alexa, open World Geographic Quiz","Alexa, open World Geographic Quiz",sin i'm having trouble accessing your vocabulary masters skilled right now,Sorry.
+B07RZ4L2KZ,Super Blackjack,"Alexa, open Super Blackjack","Alexa, open Super Blackjack",welcome back to super black jack you are currently ranked bronze the next rank is silver you need four thousand four hundred fifty five more chips to rank up you've been awarded your daily bonus of two hundred fifty chips your balance is five hundred forty five chips how many chips do you want of that,Four hundred fifty five.
+B07RZ4L2KZ,Super Blackjack,"Alexa, open Super Blackjack","Alexa, open Super Blackjack",sorry as your rank is bronzed the maximum bet allowed is two fifty chips place a lower bet how much do you want to bet o,Two fifty.
+B07RZ4L2KZ,Super Blackjack,"Alexa, open Super Blackjack","Alexa, open Super Blackjack",two hundred fifty chips bet placed you have been dealt five of hearts king of diamonds the dealer is showing the nine of hearts your hand has a score of fifteen would you like to hit her stand o,Hit.
+B07RZ4L2KZ,Super Blackjack,"Alexa, open Super Blackjack","Alexa, open Super Blackjack",sorry i didn't catch that would you like to hit her stand oh,Stand.
+B07RZ4L2KZ,Super Blackjack,"Alexa, open Super Blackjack","Alexa, open Super Blackjack",stand in your hand the dealer has nine of hearts the dealer drew a queen score is nineteen oh the dealer made a total of nineteen you lose you lost two hundred fifty chips dealing a new hand your balance is two hundred ninety five chips how much do you want to bet,Fifty chips.
+B07RZ4L2KZ,Super Blackjack,"Alexa, open Super Blackjack","Alexa, open Super Blackjack","tag info,loop time: 5","tag info: skill problem, skill stop"
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,o k here's escape the mars welcome to escape the mars,Thanks.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,it's year twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high text scientific lap you can explore the desk or climb out the window or escape through the door,Escape through the door.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,its yere twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high text scientific loud you can explore the desk or climb out the window or escape through the door,Climb out window.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,you clamber on top of the desk and climb out of the window expecting your feet to land but there is nothing there and you're falling you have failed to start again you can say alexa play escaped the mars,Alexa play Escape the Mars.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,o k here's escape tho mars welcome to escape the mars,Thanks.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,it's year twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high text scientific lap you can explore the desk or climb out the window or escape through the door,Explore the desk.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,it's year twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high text scientific lout you can explore the desk or climb out the window or escape through the door,Escape through door.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,it's here twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high text scientific lan you can explore the desk or climb out the window or escape through the door,Explore the desk.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,it's year twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high text scientific lab you can explore the desk or climb out the window or escape through the door,Escape through door.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,you pull on the handle but the door is locked your only options are to explore the desk or climb out the window,Climb out window.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,you clamber on top of the desk and climb out of the window expecting your feet to land but there is nothing there and you're falling you have failed to start again you can say alexa play escaped the mars,Alexa play Escape the Mars.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,o k here's escape the mars welcome to escape the mars,Thanks.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,it's year twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high text scientific loud you can explore the desk or climb out the window or escape through the door,Explore the desk.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,it's year twenty thirty you are in mars humans has become interplanetary species as scientists you are working inside a high tex scientific loud you can explore the desk or climb out the window or escape through the door,Escape through door.
+B07CKKS7RG,Escape the Mars,Alexa open escape the mars,Alexa open escape the mars,you pull on the handle but the door is locked your only options are to explore the desk or climb out the window,Climb out window.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",voice arcade welcome back to true afras how many people want to play,"""Five."""
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",o k five it is i'll ask you three questions each and then we'll see how you got on tem one true or false bananas grow on trees,"""False."""
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",correct bananas grow from a root structure that produces an aboveground stem team too true or false most wasabi doesn't actually contain the sabi,"""True."""
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",nice work wasabe found outside japan as more likely to be a mixture of horse radish and mustard instead team three true or false the sahara is the world's largest desert,"""False."""
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",you're right a desert is simply a region that's very dry  that definition antarctica is the largest desert on earth team four true or false our galaxy is known as the andrometa galaxy,False
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",groom you're right it's the milky way team five true or false a wambat is a marsupio,True.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",got it most marsupials carry their young in a pouch teme one true or false the ostrich is the fastest two legged land animal,True.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",i'm impressed it can reach speeds of forty three miles per hour keen to true or false yellow is the lowest rank dudo belt,False.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",well done white is the lowest rank tem three true or false calcion is the most common metal in the human body,True.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",good work the mineral form of calcium takes up half the weight of our bones and teeth team four true or false the beetle's first album was sergeant pepper's lonely heart's club bent,False.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",nice one sergeant pepper was their eighth album their first was please please me released in nineteen sixty three team five true or false water spirals down the plug hole in opposite directions in the northern and southern hemispheres,False.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",you're right the direction is driven by currents and the water from how the basin was filled rather than the rotation of the earth you've played to day's ten free questions to keep playing you need voice arcade unlimited which also gives you access to the full versions of would you rather trivia hero the daily quiz the fake news game star commander and all our new games as they launch and all our new games as they launch would you like to find out more,No.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",unfortunately without connecting to voice arcade i can't tell if you have unlimited so you can only play ten questions a day nice for playing good bye would you like to play something else o,No.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",o k if you change your mind just ask alexa to open voice arka good bye,Goodbye.
+B07F7S19FX,True Or False? (For Buttons),"Alexa, play true or false","Alexa, play true or false",sorry i'm having trouble with that right now,Retry.
+B07W8J1GD3,Finish The Phrase,"Alexa, play finish the phrase","Alexa, play finish the phrase","tag info,loop time: 0","tag info: skill problem, skill stop"
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",sorry i didn't catch that are you ready to play,Yes.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",here is your first question for ten points first things,Go ahead.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",i'll repeat the question first things,Okay.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",i'll repeat the question first things,I got it.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",that's not it the correct answer was first thing's first you lost five points for ten points here comes your next one bring home the,Next question.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",that's not it the correct answer was bring home the bacon you lost five points for twenty points moving on to your next question believe you can and you are,I can.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",not quite the correct answer was believe you can and you are half way there you lost five points for twenty points moving on to your next question if the shoe fits,It fits.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",i'll repeat the question if the shoe fits o,Okay.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",i'll repeat the question if the shoe fits,I got it.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",if the shoe fits,It fits.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",i'll repeat the question if the shoe fits,Okay.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",i'll repeat the question if the shoe fits,I know.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",i'll skip that question the correct answer was thaf the shoe fits wear it here is your final question the forty points proof of the pudding is,In the eating.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",yes that's it you answered one out of five questions correctly for a score of twenty five points to see your lifetime leader board ranking say lifetime leader board or lifetime ranking don't forget to come back to morrow to continue your daily street to unlock special question packs thanks for playing finish the phrase,Thank you.
+B072M8HJ3N,Ghost Game,"Alexa, play Ghost Game","Alexa, play Ghost Game",absolutely happy to help,You're welcome.
