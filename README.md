@@ -1,6 +1,18 @@
 # AcousticScope
 
 <p align="center">
+  <img src="docs/acousticscope_banner.svg" alt="AcousticScope banner" width="900">
+</p>
+
+<p align="center">
+  <a href="docs/AcousticScope.pdf"><img src="https://img.shields.io/badge/Paper-AcousticScope-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Paper"></a>
+  <a href="docs/SmartSP24_poster.pdf"><img src="https://img.shields.io/badge/Poster-SmartSP%202024-7C3AED?style=for-the-badge&logo=slides&logoColor=white" alt="Poster"></a>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/Focus-ASR%20Bias-0891B2?style=for-the-badge" alt="ASR Bias">
+  <img src="https://img.shields.io/badge/System-Alexa%20Evaluation-0F172A?style=for-the-badge&logo=amazonalexa&logoColor=white" alt="Alexa Evaluation">
+</p>
+
+<p align="center">
   <a href="docs/SmartSP24_poster.pdf">
     <img src="docs/SmartSP24_poster.png" alt="AcousticScope research poster" width="900">
   </a>
