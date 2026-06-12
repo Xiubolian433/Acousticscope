@@ -1,0 +1,19 @@
+[paths]
+skills_csv = "data/skills/alexa_trivia_sample.csv"
+voice_dir = "data/voices"
+result_dir = "results/alexa"
+
+[models]
+speech_to_text = "jonatasgrosman/wav2vec2-large-xlsr-53-english"
+tts = "tts_models/multilingual/multi-dataset/xtts_v1.1"
+chat_model = "gpt-3.5-turbo-1106"
+
+[audio]
+sample_rate = 44100
+silence_threshold = 0.1
+startup_timeout_seconds = 10
+max_duration_seconds = 120
+
+[secrets]
+openai_api_key_env = "OPENAI_API_KEY"
+coqui_token_env = "COQUI_STUDIO_TOKEN"

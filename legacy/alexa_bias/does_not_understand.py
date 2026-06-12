@@ -22,11 +22,11 @@ from tqdm import tqdm
 import gc
 
 
-source_file = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/trivia2.csv'
-voice_folder = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/Repire_file/Test_voice_repire'
-target_folder = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/Repire_file/Test_result_repire'
+source_file = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/trivia2.csv'
+voice_folder = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/Repire_file/Test_voice_repire'
+target_folder = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/Repire_file/Test_result_repire'
 
-key = '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'
+key = '<OPENAI_API_KEY>'
 def read_from_files(target_file):
     # Load CSV files into Pandas DataFrames
     source_df = pd.read_csv(source_file)
@@ -84,14 +84,14 @@ def fileexist(test_results_folder,wav_filename):
 def text_to_speech1(model,speaker,sentence):
     pygame.mixer.init()  # Initialize the mixer
     model.tts_to_file(sentence, speaker_wav=speaker, language="en", file_path="output.wav",speed=0.05)
-    file_path = "/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/output.wav"
+    file_path = "<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/output.wav"
     pygame.mixer.music.load(file_path)
     pygame.mixer.music.play()
   
 
 
 def text_to_speech(sentence):
-    output_file = "/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/genny_output.wav"  # Include the filename and extension
+    output_file = "<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/genny_output.wav"  # Include the filename and extension
     url = "https://api.genny.lovo.ai/api/v1/tts/sync"
     payload = {
         "speed": 1.0,
@@ -101,7 +101,7 @@ def text_to_speech(sentence):
     headers = {
         "accept": "application/json",
         "content-type": "application/json",
-        "X-API-KEY": "028cf8ed-fa9b-46ef-ab14-f44469b7ac33" #
+        "X-API-KEY": os.environ.get("LOVO_API_KEY", "") #
     }
 
     response = requests.post(url, json=payload, headers=headers)
@@ -133,7 +133,7 @@ def text_to_speech(sentence):
 
 
 # def text_to_speech(sentence):
-#     output_file = "/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/genny_output.mp3"  
+#     output_file = "<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/genny_output.mp3"  
 #     # Include the filename and extension
 #     url = "https://api.play.ht/api/v2/tts"
 
@@ -147,8 +147,8 @@ def text_to_speech(sentence):
 #     headers = {
 #         "accept": "text/event-stream",
 #         "content-type": "application/json",
-#         "AUTHORIZATION": "6fdff96ba94e4a748566dcaa4d8f7ab8",  # Replace with your actual API key
-#         "X-USER-ID": "U3uUYcnrk7gncSZBPxxUKx9vlfJ3"  # Replace with your actual User ID
+#         "AUTHORIZATION": os.environ.get("PLAYHT_AUTHORIZATION", ""),  # Replace with your actual API key
+#         "X-USER-ID": os.environ.get("PLAYHT_USER_ID", "")  # Replace with your actual User ID
 #     }
 
 #     response = requests.post(url, json=payload, headers=headers)
@@ -460,7 +460,7 @@ def main():
 
     # load voice model
     print("=====================================")
-    get_API = os.environ['COQUI_STUDIO_TOKEN'] = "0C1mFDWzCCJIdOjkWQ4J4rMzUGd470FAPhqAm71wYqld0CNBjfNZ23EruFu2HYO3"
+    get_API = os.environ["COQUI_STUDIO_TOKEN"] = os.environ.get("COQUI_STUDIO_TOKEN", "")
     if get_API:
         print("Get API!")
     print("PyTorch Version:", torch.__version__)

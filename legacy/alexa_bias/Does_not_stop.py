@@ -19,11 +19,11 @@ import threading
 
 
 
-source_file = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/Can not stop.csv'
-voice_folder = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/Repire_file/Test_voice_repire'
-target_folder = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/Repire_file/Test_result_repire'
+source_file = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/Can not stop.csv'
+voice_folder = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/Repire_file/Test_voice_repire'
+target_folder = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/Repire_file/Test_result_repire'
 
-key = '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'
+key = '<OPENAI_API_KEY>'
 def read_from_files(target_file):
     # Load CSV files into Pandas DataFrames
     source_df = pd.read_csv(source_file)
@@ -78,7 +78,7 @@ def fileexist(test_results_folder,wav_filename):
 # def text_to_speech(model,speaker,sentence):
 #     pygame.mixer.init()  # Initialize the mixer
 #     model.tts_to_file(sentence, speaker_wav=speaker, language="en", file_path="output.wav",speed=0.6)
-#     file_path = "/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/output.wav"
+#     file_path = "<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/output.wav"
 #     pygame.mixer.music.load(file_path)
 #     pygame.mixer.music.play()
 #     time.sleep(1)
@@ -375,7 +375,7 @@ def main():
 
         # load voice model
         print("=====================================")
-        get_API = os.environ['COQUI_STUDIO_TOKEN'] = "0C1mFDWzCCJIdOjkWQ4J4rMzUGd470FAPhqAm71wYqld0CNBjfNZ23EruFu2HYO3"
+        get_API = os.environ["COQUI_STUDIO_TOKEN"] = os.environ.get("COQUI_STUDIO_TOKEN", "")
         if get_API:
             print("Get API!")
         print("PyTorch Version:", torch.__version__)

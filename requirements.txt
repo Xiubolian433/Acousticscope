@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+torch>=2.0
+transformers>=4.35
+sounddevice>=0.4
+pygame>=2.5
+TTS>=0.22
+openai>=1.0

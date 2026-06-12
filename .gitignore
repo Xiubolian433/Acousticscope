@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+output.wav
+output*.mp3
+genny_output.wav
+data/voices/
+*.egg-info/

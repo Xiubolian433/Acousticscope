@@ -26,10 +26,10 @@ import subprocess
 
 
 
-source_file = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/Can not stop.csv'
-target_file = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing_mo/Can not stop_results.csv'
+source_file = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/Can not stop.csv'
+target_file = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing_mo/Can not stop_results.csv'
 
-key = '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'
+key = '<OPENAI_API_KEY>'
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model_name = "facebook/wav2vec2-large-960h-lv60-self"

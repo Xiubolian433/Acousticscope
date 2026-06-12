@@ -17,7 +17,7 @@ import pandas as pd
 
 
 print("=====================================")
-get_API = os.environ['COQUI_STUDIO_TOKEN'] = "0C1mFDWzCCJIdOjkWQ4J4rMzUGd470FAPhqAm71wYqld0CNBjfNZ23EruFu2HYO3"
+get_API = os.environ["COQUI_STUDIO_TOKEN"] = os.environ.get("COQUI_STUDIO_TOKEN", "")
 if get_API:
     print("Get API!")
 
@@ -54,11 +54,11 @@ processor = Wav2Vec2Processor.from_pretrained(model_name)
 # model = Wav2Vec2ForCTC.from_pretrained("facebook/wav2vec2-base-960h")
 OPEN_INTENT = 'Hey Alexa,'
 
-openai.api_key = "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"
+openai.api_key = "<OPENAI_API_KEY>"
 
-source_file = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing/Total_negative_Furst_matched_test.csv'
-target_file = '/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing/Test_result/Mexican_female.csv'
-speaker_voice = "/home/mo/Documents/Alexa_Voice_Program/alexa_voice_testing/Test Voice/Mexican_female.wav"
+source_file = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing/Total_negative_Furst_matched_test.csv'
+target_file = '<LOCAL_PROJECT_ROOT>/alexa_voice_testing/Test_result/Mexican_female.csv'
+speaker_voice = "<LOCAL_PROJECT_ROOT>/alexa_voice_testing/Test Voice/Mexican_female.wav"
 
 def read_from_files():
     # Load CSV files into Pandas DataFrames
@@ -103,7 +103,7 @@ def text_to_speech(sentence):
     text = sentence
     ##TODO: add loop to get the different voice from Test Voice folder
     tts.tts_to_file(text, speaker_wav=speaker_voice, language="en", file_path="output.wav",speed=0.6)
-    file_path = "/home/mo/Documents/Alexa_Voice_Program/output.wav"
+    file_path = "<LOCAL_PROJECT_ROOT>/output.wav"
     pygame.mixer.music.load(file_path)
     pygame.mixer.music.play()
     time.sleep(1)
